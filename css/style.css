@@ -1,0 +1,64 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.Cabecalho{
+    height: 90px;
+    background-color: rgb(65, 65, 65);
+}
+.Cabecalho2{
+    padding-left: 650px;
+    padding-top: 15px;
+    height: 30px;
+    background-color: rgba(29, 28, 28, 0.762);
+    border-bottom: 5px solid rgba(253, 167, 7, 0.925);
+}
+.doisbut{
+    padding-left: 200px;
+    padding-top: 30px;
+}
+.Menu{
+    padding-right: 15px;
+    color: white;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+,Menu:hover{
+    color: white;
+}
+.Menu:visited{
+    color: white;
+}
+.Buscar{
+    color: white;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+.Buscar:hover{
+    color: white;
+}
+.Buscar:visited{
+    color: white;
+}
+.Noticias{
+    padding-right: 30px;
+    font-size: large;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+.Review{
+    color: white;
+    padding-right: 30px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+.Outros{
+    color: white;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
